@@ -1,4 +1,2 @@
-title: Ponies
----
-
 # Ponies
+
